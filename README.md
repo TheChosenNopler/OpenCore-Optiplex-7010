@@ -1,5 +1,5 @@
 # Dell-Optiplex-7010-Hackintosh-OpenCore
-Tested on macOs High Sierra
+Tested on macOS High Sierra 10.13.6 (17G14042)
 
 ## What's working
 - WiFi (Ethernet untested)
@@ -17,5 +17,3 @@ I would recommend that you do the following in macOS:
 ## Supported graphics
 iGPU (HD4000) is untested. I am using a Nvidia dGPU (Quadro K2200)
 
-
-yeah that's really it lol
